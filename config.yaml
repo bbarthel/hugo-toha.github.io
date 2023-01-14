@@ -1,7 +1,8 @@
 baseURL: https://bbarthel.github.io
 
 languageCode: en-us
-title: "John's Blog"
+#title: "Bill Barthel's Serverless Personal Website"
+title: "Bill Barthel's Website"
 
 # Use Hugo modules to add theme
 module:

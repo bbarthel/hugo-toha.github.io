@@ -8,45 +8,45 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Technical Integration Manager
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Stamats
+  url: "https://stamats.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Developing migration tools for getting content in and out of content management systems (CMS) using C#, Selenium and APIs. I work on Cascade, WordPress, Drupal, Terminalfour and custom CMS. Setup AWS EC2 instances to support WordPress and Drupal development. I also work on Paas/Saas API integrations with Facebook/Instagram, Google, HigherLogic, Basis, Zapier and Basecamp.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "bill.barthel@stamats.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://www.github.com/example"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/billbarthel/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/billbarthel"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -75,17 +75,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name
